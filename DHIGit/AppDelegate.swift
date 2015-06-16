@@ -9,6 +9,7 @@
 
 
 // Another comment
+// this comment should appear only in the feature branch.
 
 // ---- this is psuedo master branch.. i lets see if we can add a feature to this branch.
 
