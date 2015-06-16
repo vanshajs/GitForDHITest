@@ -8,6 +8,7 @@
 // Another comment for git
 
 // Another comment
+// this comment should appear only in the feature branch.
 
 import UIKit
 
