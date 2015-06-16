@@ -9,6 +9,7 @@
 
 
 // Another comment
+// this comment should appear only in the feature branch.
 
 //+++++++++ this is the register functionality. and i have to add this.
 
