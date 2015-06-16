@@ -7,6 +7,8 @@
 //
 // Another comment for git
 
+// Another comment
+
 import UIKit
 
 @UIApplicationMain
